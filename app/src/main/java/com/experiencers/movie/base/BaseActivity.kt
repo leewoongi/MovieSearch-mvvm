@@ -1,4 +1,7 @@
 package com.experiencers.movie.base
 
-class BaseActivity {
+import androidx.appcompat.app.AppCompatActivity
+
+class BaseActivity: AppCompatActivity() {
+
 }
