@@ -1,4 +1,7 @@
 package com.experiencers.movie.ui
 
-class MainViewModel {
+import androidx.lifecycle.ViewModel
+
+class MainViewModel: ViewModel() {
+    
 }
